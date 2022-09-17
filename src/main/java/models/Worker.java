@@ -16,4 +16,5 @@ public class Worker {
     private String firstName;
     private String lastName;
     private int age;
+    private String  logName;
 }
